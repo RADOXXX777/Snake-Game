@@ -1,21 +1,3 @@
-"""
-SNAKE GAME - Python (turtle, no installation needed)
-
-Run it from IDLE (F5) or:  python snake_game_v2.py
-
-Controls:
-    Arrow keys / WASD  - move
-    P                  - pause / resume
-    R                  - restart
-    Close the window   - quit
-
-Features:
-    - Title header with snake emblems
-    - Side panel with BEST SCORE, score, length and level
-    - Game speeds up as you level up (every 50 points)
-    - High score saved between runs
-"""
-
 import json
 import math
 import os
